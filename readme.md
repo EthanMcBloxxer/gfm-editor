@@ -18,4 +18,4 @@ I took this idea from https://github.com/ZekeLu/GFM-editor but I found that issu
 * Don't preview changes if you have confidential information, it does send the data to GitHub temporarily.
 
 ## Storing Files
-If you'd like to store files, I **highly** recommend changing the repository's name to your username, like EthanMcBloxxer / EthanMcBloxxer. Then, the readme.md will show up on your profile page, and you can store drafts in a `/drafts/` folder.
+If you'd like to store files, I **highly** recommend changing the repository's name to your username, like https://github.com/EthanMcBloxxer/EthanMcBloxxer. Then, the readme.md will show up on your profile page, and you can store drafts in a `/drafts/` folder.
